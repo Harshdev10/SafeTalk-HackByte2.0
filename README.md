@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+## We have developed a platform for anonymous counseling for users. SafeTalk is a platform where users can create accounts with anonymous ID’s and get access to professional counselors based on their needs. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Key features of this project are:
+-	We will not store any email or personal information of the user, instead we will be providing a recovery code to users for recovering their forgotten passwords.
+-	We will provide features such as one way video call, voice call, chat support etc to provide user anonymity
+-	Users will be provided with full information of counselors for selecting the perfect mentor they wish to take sessions with.
+
+## All Features
+Random User ID: Upon signup, users are assigned a random ID instead of using their names, ensuring anonymity and privacy.
+Account Recovery Codes: In case users forget their passwords, they are provided with account recovery codes to regain access to their accounts securely.
+No Email Storage: SafeTalk prioritizes user privacy by not storing any emails or personal information of users.
+Mentor Signup: Mentors can sign up by providing complete details and portfolios, ensuring that users have access to qualified and experienced professionals.
+Chat Support: Users can engage in text-based conversations with trained mentors to discuss their concerns and seek guidance.
+Voice Call: Users have the option to initiate voice calls with mentors for more personalized support and assistance.
+One-Way Video Call: Users can choose to have one-way video calls with mentors, allowing them to see and hear the mentor while remaining anonymous themselves.
+###Pricing
+Initial Trial: We offer an initial trial period for free, allowing users to experience our platform and services before committing to paid sessions.
+
+Subscription Charges: After the trial period, users will be charged for additional sessions. We offer flexible subscription plans to suit different needs and budgets.
+
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
